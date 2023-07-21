@@ -21,4 +21,3 @@ Functionalities.Crititcal().critical(inspect.getframeinfo(f).filename,critical_m
 # Functionalities.Information().info(inspect.getframeinfo(f).filename,info,inspect.getframeinfo(f).lineno)
 # Functionalities.Warning().warn(inspect.getframeinfo(f).filename,warning_message,inspect.getframeinfo(f).lineno)
 # Functionalities.Error().err(inspect.getframeinfo(f).filename,error_message,inspect.getframeinfo(f).lineno)
-# LogFile.print_line(status.path,status.line_number)

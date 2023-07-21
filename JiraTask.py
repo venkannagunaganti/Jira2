@@ -4,7 +4,7 @@ class LogFile:
 #writing to the log file function
   path = 'C:/Users/GUNAGANTI VENKANNA/Documents/file.txt'
   msg = ''
-  with open(path, 'w') as file:
+  with open(path,'w') as file:
     file.write(msg)
 
     @staticmethod

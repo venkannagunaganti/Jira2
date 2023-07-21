@@ -3,7 +3,7 @@ critical_msg="CRITICAL:the internet is not working"
 debug_msg="DEBUG:This is just a harmless debug message"
 error_message="ERROR:this is an error message"
 warning_message="WARNING:this is warning message"
-info="INFO:this is info"
+info="INFO:this is infoo"
 class Crititcal:
 # function to write critical msg
     @staticmethod
